@@ -24,16 +24,16 @@ Welcome to the Python For DataScience repository! This repository is a comprehen
          - Final Projects: Real-world data science projects, including an analysis of New York job postings.
          
 ## Getting Started
-    To start using the materials in this repository:
+To start using the materials in this repository:
 
 ## Clone the repository:
     - git clone https://github.com/SheemaMasood381/Python-For-DataScience.git
 
-    Navigate through the directories to explore the notebooks and documents.
-    For Jupyter notebooks, ensure you have Jupyter installed and run them locally.
+Navigate through the directories to explore the notebooks and documents.
+For Jupyter notebooks, ensure you have Jupyter installed and run them locally.
 
 ## Contributions
-    Feel free to contribute to this repository by creating pull requests, reporting issues, or suggesting new topics and improvements.
+Feel free to contribute to this repository by creating pull requests, reporting issues, or suggesting new topics and improvements.
 
 ## License
-    This repository is open-sourced under the MIT License.
+This repository is open-sourced under the MIT License.
